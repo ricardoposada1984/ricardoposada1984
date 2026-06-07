@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**ricardoposada1984/ricardoposada1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, I'm León.
 
-Here are some ideas to get you started:
+Desarrollador orientado a la optimización de sistemas, con un enfoque técnico en la intersección entre tecnología y ciencias de la vida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧬 Áreas de Enfoque
+- **Bioinformática & Biocomputación:** Modelado de datos genómicos y biológicos.
+- **Data Science aplicado a la Salud:** Análisis de información biomédica para la toma de decisiones.
+- **Longevidad:** Aplicación de modelos científicos para la extensión de la salud (healthspan).
+- **Fintech:** Desarrollo de herramientas financieras y optimización de activos.
+
+---
+
+### 🛠 Stack Tecnológico
+- **Lenguajes:** Python, R (enfocado en análisis de datos y automatización).
+- **Entorno:** Optimización de sistemas bajo entornos de terminal.
+- **Herramientas:** Gestión de datasets, análisis estadístico y modelado.
+
+---
+
+### 📈 Progreso Actual
+Actualmente enfocando mis esfuerzos en la creación de datasets complejos y el análisis de genomas
+para mejorar mi capacidad de procesamiento de información biológica.
